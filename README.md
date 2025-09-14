@@ -37,6 +37,8 @@
 - 自动识别 **敏感信息（如 Token、密码、隐私数据）**
 - 对敏感参数进行 **屏蔽/脱敏处理**
 
+📷 *示意图*  
+<img width="871" height="566" alt="截屏2025-09-14 14 12 05" src="https://github.com/user-attachments/assets/778e9354-d97f-4046-8d0e-80085e0ba89f" />
 
 ---
 
