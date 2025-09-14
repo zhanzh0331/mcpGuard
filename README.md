@@ -45,6 +45,7 @@
 - 检测是否存在 **Prompt Injection 攻击**
 - 拦截危险指令，保护 LLM 安全
 
+<img width="806" height="1017" alt="image" src="https://github.com/user-attachments/assets/5f4bc819-dd8f-4306-a6ef-c8e95af13654" />
 
 ---
 
@@ -65,6 +66,7 @@
 ````
 
 📷 *架构总览*  
+<img width="931" height="594" alt="image" src="https://github.com/user-attachments/assets/6598b6d6-dfd1-4f19-8858-3ba452e701b0" />
 
 
 ---
